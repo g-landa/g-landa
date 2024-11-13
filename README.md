@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @g-landa
-- 👀 I’m interested in ... girls (exluding fat girls)
+- 👀 I’m interested in ... girls (excluding fat girls)
 - 🌱 I’m currently learning ... how does github work
 - 💞️ I’m looking to collaborate on ... myself
 - 📫 How to reach me ... por email
