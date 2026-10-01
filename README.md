@@ -8,9 +8,4 @@
 - el hijo contesta: "No, papá. No es lo que parece!!", "¿cómo que no es lo que parece?!" replica el padre.
 - reponde Jesus: "Sí, se que parece un pepino, pero es una calabacita!"
 
-Aún me cuesta entender tanta cosa
-
-<!---
-g-landa/g-landa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ok, ya voy agarrandole la onda, creo que con paciencia lograré entendero, si lo usa tanta gente, ni modo que yo no
